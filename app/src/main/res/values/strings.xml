@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="arrow_down">↓</string>
+    <string name="text_button_convert">Convert</string>
+    <string name="error_text_on_load_data">Error on load exchange rates!</string>
+    <string name="error_text_on_insert_data">Error on insert data to database!</string>
+    <string name="error_text_on_check_initial_condition">Error on check initial condition</string>
+    <string name="error_text_on_empty_value">Empty value! Currency not to be convert</string>
+    <string name="error_text_on_empty_database">Empty database! Currency not to be convert</string>
+    <string name="error_text_on_convert_currency">Error on convert currency</string>
+
+    <string-array name="currency_options">
+        <item>CAD</item>
+        <item>HKD</item>
+        <item>ISK</item>
+        <item>PHP</item>
+        <item>DKK</item>
+        <item>HUF</item>
+        <item>CZK</item>
+        <item>GBP</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>IDR</item>
+        <item>INR</item>
+        <item>BRL</item>
+        <item>RUB</item>
+        <item>HRK</item>
+        <item>THB</item>
+        <item>CHF</item>
+        <item>EUR</item>
+        <item>MYR</item>
+        <item>JPY</item>
+        <item>BGN</item>
+        <item>TRY</item>
+        <item>CNY</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>ZAR</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>SGD</item>
+        <item>AUD</item>
+        <item>ILS</item>
+        <item>KRW</item>
+        <item>PLN</item>
+    </string-array>
+</resources>
+
+
+
